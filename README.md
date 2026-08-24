@@ -53,6 +53,22 @@ The analysis showed that **hour** is particularly important for predicting renta
 
 ---
 
+## 📊 Visualizations
+
+### Average Bike Rentals by Hour
+
+![Average Bike Rentals by Hour](images/hourly_demand.png)
+
+### Temperature vs Bike Rental Demand
+
+![Temperature vs Bike Rental Demand](images/temperature_demand.png)
+
+### Final Feature Importance
+
+![Final Feature Importance](images/feature_importance.png)
+
+---
+
 ## ⚙️ Preprocessing
 
 Categorical features were transformed using **One-Hot Encoding**.
