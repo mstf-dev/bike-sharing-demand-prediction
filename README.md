@@ -207,7 +207,7 @@ Bike Sharing Demand Prediction/
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/mstf-dev/bike-sharing-demand-prediction.git
 ```
 
 Navigate to the project directory:
