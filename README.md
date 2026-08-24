@@ -280,5 +280,5 @@ Through this project, I practiced:
 
 **Mostafa Mousavi**
 
-GitHub: [@mstf-dev](https://github.com/mstf-dev)
+GitHub: [@mstf-dev](https://github.com/mstf-dev).
 LinkedIn: [@mstf-dev](https://linkedin.com/mstf-dev).
